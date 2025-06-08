@@ -1,3 +1,4 @@
+-- Solution for Mock SQL 3 question : Market Analysis II
 -- Method 1
 WITH cnt AS (
     SELECT  seller_id,

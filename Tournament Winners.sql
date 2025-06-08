@@ -1,3 +1,4 @@
+-- Soution for Mock SQL 3 question: Tournament Winners
 WITH cte AS (
     SELECT  player_id,
             SUM(score) AS score
